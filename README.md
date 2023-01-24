@@ -1,8 +1,8 @@
 
   
-# lakj;a ;ja;aj ;a ja 
+# Professional Readme Generator 
 
-![Licence Badge](https://img.shields.io/badge/GNU3.0-Licence-green)
+![Licence Badge](https://img.shields.io/badge/MIT-Licence-green)
 
 ## Table of Contents
 * [Description](#Description)
@@ -16,29 +16,29 @@
 ## Description
 Video walkthrough of the app link will be here after recording
 
-dja;kj ahahalh lajhl jahl a
+This app is a node.js terminal application which generates a read me file taking prompts from user
 
 ## Installation
-;lkaj ;aj ;aj ;alkj;a j;a
+just run node index.js from terminal in the same folder as index.js file
 
 ## Usage
-dfhshlakjhkjsh skjjh skjah ahk 
+Writing a professional readme file is very important for a develeper to reach audiences and this app helps generate the readme file easily and quickly for you.
 
 ## Credits
-hk akha kjha jhkh jahjk ha
+Thanks to bootcamp teaching team
 
 ## Licence
-This app is distributed under Apache 2.0 Licence
+This app is distributed under MIT Licence
 
 ## Features
-skljs lksj lskj s lj lajla 
+Terminal application using inquirer package
 
 ## Contribute
-a lkajlkaj lkja hlh alk
+N/A
 
 ## Tests
-al ja;a kj;akj a
+N/A
 
 ## Questions
 Please click this link to go to [Github repo](https://github.com/onderguler35/easyREADme)
-For any questions or comments please [contact me](mailto:onder5@hotmai.com)
+For any questions or comments please [contact me](mailto:onder5@hotmail.com)
