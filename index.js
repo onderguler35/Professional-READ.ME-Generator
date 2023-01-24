@@ -9,7 +9,7 @@ const questions = require('./utils/questions'); //importing a function from anot
 function writeToFile(data) {
     fs.writeFile('README.md', data, (error)=>{
         if (error) throw error;// seen this on w3schools fs package examples and loved it. 
-        //The ending wording for the user letting them know code successfully completed and written file.
+        //The ending wording below for the user letting them know code successfully completed and written file.
         console.log(`
 
         ----------------------------------------------------------
@@ -24,6 +24,8 @@ function init() {
     inquirer.prompt(questions) // question shared by module question.js
     .then(generateMarkdown) // generateMarkdown shared by module generateMarkdown.js uses data from inquirer to create the README template.
     .then(writeToFile); // writes the generated README file to ./README,md
-}
+}// .then in 2 lines above is to wait for the previous task to continue the next one to work in an async way and also to make sure data is ready to proceed. 
+
+
 // function call to initialize program
 init();

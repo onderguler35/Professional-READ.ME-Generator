@@ -1,5 +1,3 @@
-
-  
 # Professional Readme Generator 
 
 ![Licence Badge](https://img.shields.io/badge/MIT-Licence-green)
@@ -14,7 +12,7 @@
 * [Contribute](#Contribute)
 
 ## Description
-Video walkthrough of the app link will be here after recording
+You can watch the video walkthrough of the app [here](https://drive.google.com/file/d/1O570kPm1hJsO23qrZJq9g02g7jxFIdOL/view)
 
 This app is a node.js terminal application which generates a read me file taking prompts from user
 

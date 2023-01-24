@@ -19,7 +19,7 @@ function generateMarkdown(data) {
 * [Contribute](#Contribute)
 
 ## Description
-Video walkthrough of the app link will be here after recording
+You can watch the video walkthrough of the app [here](https://drive.google.com/file/d/10VPEjpWcGzREG7bRxeHJIyvk11WwvVHf/view?usp=share_link)
 
 ${data.description}
 
