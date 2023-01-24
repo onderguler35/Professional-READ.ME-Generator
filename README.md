@@ -2,7 +2,7 @@
   
 # lakj;a ;ja;aj ;a ja 
 
-![Licence Badge](https://img.shields.io/badge/Apache 2.0-Licence-green)
+![Licence Badge](https://img.shields.io/badge/GNU3.0-Licence-green)
 
 ## Table of Contents
 * [Description](#Description)

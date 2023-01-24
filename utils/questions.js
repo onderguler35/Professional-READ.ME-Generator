@@ -39,7 +39,7 @@ const questions = [
         name: 'licence',
         message:"Which licence would you prefer for your project?",
         type: 'list', //creates a list of options from the choices array below that the user can choose
-        choices: ['Apache 2.0', 'GNU 3.0','MIT',]
+        choices: ['Apache2.0', 'GNU3.0','MIT',]
     },
 
     {
