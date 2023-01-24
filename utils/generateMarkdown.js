@@ -12,6 +12,8 @@ function generateMarkdown(data) {
 * [Contribute](#Contribute)
 
 ## Description
+[Github repo link](https://github.com/${githubId}/${githubRepo})
+[Github pages link](https://github.com/${githubId}/${githubRepo})
 ${data.description}
 
 ## Installation
