@@ -1,5 +1,5 @@
 
-# asdfasdf
+# Professional Readme Generator
 ## Table of Contents
 * [Description](#Description)
 * [Installation](#Installation)
@@ -10,22 +10,24 @@
 * [Contribute](#Contribute)
 
 ## Description
-wearwer
+[Github repo link](https://github.com/onderguler35/README-Generator)
+
+This is a node project which runs on the cli asking questions to user and getting answers
 
 ## Installation
-asdfsdf
+node index.js
 
 ## Usage
-dsdgdsfsd
+You can use this app to prepare you README file professionally and easily.
 
 ## Credits
-sdfdsf
+Thanks to bootcamp teaching team and [w3schools](http://www.w3schools.com)
 
 ## Licence
 MIT Licence
 
 ## Features
-sadfsdaf
+Cli app which recieves input from user through the terminal using inquirer
 
 ## Contribute
-asdfsdf
+NA

@@ -9,9 +9,13 @@ const questions = require('./utils/questions'); //importing a function from anot
 function writeToFile(data) {
     fs.writeFile('README.md', data, (error)=>{
         if (error) throw error;// seen this on w3schools fs package examples and loved it. 
+        //The ending wording for the user letting them know code successfully completed and written file.
         console.log(`
+
+        ----------------------------------------------------------
+
         README file is created and written successfully.
-        Thank you for using my app.`);        
+        Thank you for using the app.`);        
     })
 }
 // function to initialize program. Everything starts here!
