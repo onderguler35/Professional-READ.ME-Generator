@@ -1,8 +1,8 @@
 
   
-# asdlfjalskd  
+# lakj;a ;ja;aj ;a ja 
 
-![Licence Badge](https://img.shields.io/badge/MIT-Licence-green)
+![Licence Badge](https://img.shields.io/badge/Apache 2.0-Licence-green)
 
 ## Table of Contents
 * [Description](#Description)
@@ -16,29 +16,29 @@
 ## Description
 Video walkthrough of the app link will be here after recording
 
-asdkja ljsad;lasdj; asd
+dja;kj ahahalh lajhl jahl a
 
 ## Installation
-laskj; asdj;akj ;adjk
+;lkaj ;aj ;aj ;alkj;a j;a
 
 ## Usage
-als;jak j;a
+dfhshlakjhkjsh skjjh skjah ahk 
 
 ## Credits
-alsja;ja ;
+hk akha kjha jhkh jahjk ha
 
 ## Licence
-MIT
+This app is distributed under Apache 2.0 Licence
 
 ## Features
-lka;lja; lkja;ja
+skljs lksj lskj s lj lajla 
 
 ## Contribute
-lskjlsjk lskjs
+a lkajlkaj lkja hlh alk
 
 ## Tests
-alskja; kaj;a
+al ja;a kj;akj a
 
 ## Questions
-Please click this link to go to [Github repo](https://github.com/onder5@hotmail.com/easyREADme)
-For any questions or comments please [contact me](mailto:onder5@hotmail.com)
+Please click this link to go to [Github repo](https://github.com/onderguler35/easyREADme)
+For any questions or comments please [contact me](mailto:onder5@hotmai.com)

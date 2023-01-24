@@ -33,7 +33,7 @@ ${data.usage}
 ${data.credits}
 
 ## Licence
-${data.licence}
+This app is distributed under ${data.licence} Licence
 
 ## Features
 ${data.features}
