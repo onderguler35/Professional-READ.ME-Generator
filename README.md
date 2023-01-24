@@ -1,5 +1,9 @@
 
-# Professional Readme Generator
+  
+# asdlfjalskd  
+
+![Licence Badge](https://img.shields.io/badge/MIT-Licence-green)
+
 ## Table of Contents
 * [Description](#Description)
 * [Installation](#Installation)
@@ -10,24 +14,31 @@
 * [Contribute](#Contribute)
 
 ## Description
-[Github repo link](https://github.com/onderguler35/README-Generator)
+Video walkthrough of the app link will be here after recording
 
-This is a node project which runs on the cli asking questions to user and getting answers
+asdkja ljsad;lasdj; asd
 
 ## Installation
-node index.js
+laskj; asdj;akj ;adjk
 
 ## Usage
-You can use this app to prepare you README file professionally and easily.
+als;jak j;a
 
 ## Credits
-Thanks to bootcamp teaching team and [w3schools](http://www.w3schools.com)
+alsja;ja ;
 
 ## Licence
-MIT Licence
+MIT
 
 ## Features
-Cli app which recieves input from user through the terminal using inquirer
+lka;lja; lkja;ja
 
 ## Contribute
-NA
+lskjlsjk lskjs
+
+## Tests
+alskja; kaj;a
+
+## Questions
+Please click this link to go to [Github repo](https://github.com/onder5@hotmail.com/easyREADme)
+For any questions or comments please [contact me](mailto:onder5@hotmail.com)
